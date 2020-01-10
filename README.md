@@ -39,4 +39,4 @@ Link to source control repository
 https://github.com/MidnightWhite/DeepQA-Chatbot.git 
 
 After training, there is a model file is up to 300 MB, which cannot be uploaded to DLE and too big to push to github. So, I upload it to Google Cloud. Here is the link.
-https://drive.google.com/open?id=18_8BPr4g_NTyscWDDfvSIbCe3TsPWygA
+https://drive.google.com/open?id=1GtYvO5iNTyBAWMcKNttniAVHRPOJSgg9
